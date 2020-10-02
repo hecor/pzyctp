@@ -1,12 +1,12 @@
 pzyctp
 ======
 
-my python wrapper for CTP
+My python wrapper for CTP
 
 Install:
 ========
-* run make in each directory then ./setup.sh
-* export LD_LIBRARY_PATH="$HOME/programs/lib/python2.7/site-packages/pzyctp/stock:$HOME/programs/lib/python2.7/site-packages/pzyctp/future:$LD_LIBRARY_PATH"
+* Run make in each directory then ./setup.sh
+* Export LD_LIBRARY_PATH="$HOME/programs/lib/python2.7/site-packages/pzyctp/stock:$HOME/programs/lib/python2.7/site-packages/pzyctp/future:$LD_LIBRARY_PATH"
 
 **Remember to change to PYTHON library path in scripts and export command**
 
